@@ -1,4 +1,4 @@
-#cart ka _init.py_ optimized
+#cart folder's _init.py_ optimized
 import json
 
 import products
